@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on </title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
@@ -21,20 +21,227 @@
     </item>
     
     <item>
-      <title>GA Cushen</title>
-      <link>/authors/ga-cushen/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <title>Aleksandrina Goeva</title>
+      <link>/authors/aleksandrina-goeva/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>/authors/ga-cushen/</guid>
+      <guid>/authors/aleksandrina-goeva/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MS Nixon</title>
-      <link>/authors/ms-nixon/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>Baum, M.</title>
+      <link>/authors/baum-m./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/authors/ms-nixon/</guid>
+      <guid>/authors/baum-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bien, E.</title>
+      <link>/authors/bien-e./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/bien-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bloom, J.M.</title>
+      <link>/authors/bloom-j.m./</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/bloom-j.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bortolin, L.</title>
+      <link>/authors/bortolin-l./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/bortolin-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carrellas, A.</title>
+      <link>/authors/carrellas-a./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/carrellas-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goeva, A.</title>
+      <link>/authors/goeva-a./</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/goeva-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goldman, M.</title>
+      <link>/authors/goldman-m./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/goldman-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helfrich, C.</title>
+      <link>/authors/helfrich-c./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/helfrich-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hwang, I.T.</title>
+      <link>/authors/hwang-i.t./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/hwang-i.t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kolaczyk, E.D.</title>
+      <link>/authors/kolaczyk-e.d./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/kolaczyk-e.d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kramer, J.M.</title>
+      <link>/authors/kramer-j.m./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/kramer-j.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krienen, F.M.</title>
+      <link>/authors/krienen-f.m./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/krienen-f.m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kunin, D.</title>
+      <link>/authors/kunin-d./</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/kunin-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lam, H.</title>
+      <link>/authors/lam-h./</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/lam-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Levin, M.</title>
+      <link>/authors/levin-m./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/levin-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macosko, E.Z.</title>
+      <link>/authors/macosko-e.z./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/macosko-e.z./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qian, H.</title>
+      <link>/authors/qian-h./</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/qian-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel, P.S.</title>
+      <link>/authors/samuel-p.s./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/samuel-p.s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saunders, A.</title>
+      <link>/authors/saunders-a./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/saunders-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schwartz, A.E.</title>
+      <link>/authors/schwartz-a.e./</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/schwartz-a.e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seed, C.</title>
+      <link>/authors/seed-c./</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/seed-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wang, S.</title>
+      <link>/authors/wang-s./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/wang-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wysoker, A.</title>
+      <link>/authors/wysoker-a./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/wysoker-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhang, B.</title>
+      <link>/authors/zhang-b./</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/zhang-b./</guid>
       <description></description>
     </item>
     
@@ -44,6 +251,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>de Rivera, H.</title>
+      <link>/authors/de-rivera-h./</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/de-rivera-h./</guid>
       <description></description>
     </item>
     

@@ -12,6 +12,22 @@
     
     <url>
     
+      <loc>/publication/lae/</loc>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/mia_nmf/</loc>
+      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00-04:00</lastmod>
     </url>
@@ -28,8 +44,32 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/publication/mouce_atlas/</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/jessica/</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/eric/</loc>
+      <lastmod>2017-01-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/henry2/</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -60,16 +100,9 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -83,26 +116,8 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,6 +143,15 @@
     
     <url>
     
+      <loc>/authors/aleksandrina-goeva/</loc>
+      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
@@ -138,6 +162,51 @@
     
       <loc>/authors/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/baum-m./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bien-e./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bloom-j.m./</loc>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bortolin-l./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/carrellas-a./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,8 +240,8 @@
     
     <url>
     
-      <loc>/authors/ga-cushen/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <loc>/authors/goeva-a./</loc>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -180,8 +249,89 @@
     
     <url>
     
-      <loc>/authors/ms-nixon/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <loc>/authors/goldman-m./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/helfrich-c./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hwang-i.t./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kolaczyk-e.d./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kramer-j.m./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/krienen-f.m./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kunin-d./</loc>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/lam-h./</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/levin-m./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/macosko-e.z./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -207,7 +357,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,7 +366,16 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2015-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/qian-h./</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -224,7 +383,43 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/samuel-p.s./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/saunders-a./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/schwartz-a.e./</loc>
+      <lastmod>2018-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/seed-c./</loc>
+      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -255,7 +450,43 @@
     
     <url>
     
+      <loc>/authors/wang-s./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/wysoker-a./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/zhang-b./</loc>
+      <lastmod>2016-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/de-rivera-h./</loc>
+      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

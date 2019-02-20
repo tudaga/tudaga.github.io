@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aleksandrina Goeva on </title>
+    <link>/authors/aleksandrina-goeva/</link>
+    <description>Recent content in Aleksandrina Goeva on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/aleksandrina-goeva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to non-negative matrix factorization</title>
+      <link>/talk/mia_nmf/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/mia_nmf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

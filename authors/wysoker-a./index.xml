@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wysoker, A. on </title>
+    <link>/authors/wysoker-a./</link>
+    <description>Recent content in Wysoker, A. on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/wysoker-a./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular diversity and specializations among the cells of the adult mouse brain</title>
+      <link>/publication/mouce_atlas/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/mouce_atlas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

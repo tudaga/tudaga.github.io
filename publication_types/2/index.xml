@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Academic</title>
+    <title>2 on </title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Academic</description>
+    <description>Recent content in 2 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <title>Loss Landscapes of Regularized Linear Autoencoders</title>
+      <link>/publication/lae/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/lae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular diversity and specializations among the cells of the adult mouse brain</title>
+      <link>/publication/mouce_atlas/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/mouce_atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial evaluation of the effects of an environmental‐focused problem‐solving intervention for transition‐age young people with developmental disabilities: Project TEAM</title>
+      <link>/publication/jessica/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/jessica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving and Evaluating Topic Models and Other Models of Text Comment</title>
+      <link>/publication/eric/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/eric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Calibration of Simulation Input Models</title>
+      <link>/publication/henry2/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/henry2/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
@@ -73,6 +73,24 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Loss Landscapes of Regularized Linear Autoencoders</title>
+      <link>/publication/lae/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/lae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to non-negative matrix factorization</title>
+      <link>/talk/mia_nmf/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/mia_nmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
@@ -93,29 +111,39 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <title>Molecular diversity and specializations among the cells of the adult mouse brain</title>
+      <link>/publication/mouce_atlas/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/mouce_atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial evaluation of the effects of an environmental‐focused problem‐solving intervention for transition‐age young people with developmental disabilities: Project TEAM</title>
+      <link>/publication/jessica/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/jessica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving and Evaluating Topic Models and Other Models of Text Comment</title>
+      <link>/publication/eric/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/eric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based Calibration of Simulation Input Models</title>
+      <link>/publication/henry2/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/henry2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -514,26 +542,6 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kolaczyk, E.D. on </title>
+    <link>/authors/kolaczyk-e.d./</link>
+    <description>Recent content in Kolaczyk, E.D. on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/authors/kolaczyk-e.d./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial evaluation of the effects of an environmental‐focused problem‐solving intervention for transition‐age young people with developmental disabilities: Project TEAM</title>
+      <link>/publication/jessica/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/jessica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving and Evaluating Topic Models and Other Models of Text Comment</title>
+      <link>/publication/eric/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/eric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
