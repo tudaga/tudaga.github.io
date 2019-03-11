@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/publication/slide-seq/</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/mia-lae/</loc>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/jupyter/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     </url>
@@ -101,7 +117,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -117,7 +133,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -144,7 +160,7 @@
     <url>
     
       <loc>/authors/aleksandrina-goeva/</loc>
-      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -222,6 +238,24 @@
     
     <url>
     
+      <loc>/authors/chen-f./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chen-l.m./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -241,7 +275,7 @@
     <url>
     
       <loc>/authors/goeva-a./</loc>
-      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -331,7 +365,25 @@
     <url>
     
       <loc>/authors/macosko-e.z./</loc>
-      <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/martin-c.a./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/murray-e./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -357,7 +409,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -366,7 +418,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -383,7 +435,16 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/rodriques-s.g./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -441,6 +502,15 @@
     
     <url>
     
+      <loc>/authors/stickels-r.r./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -450,8 +520,26 @@
     
     <url>
     
+      <loc>/authors/vanderburg-c.r./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/wang-s./</loc>
       <lastmod>2018-08-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/welch-j./</loc>
+      <lastmod>2019-02-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -6,8 +6,26 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Slide-seq: A Scalable Technology for Measuring Genome-Wide Expression at High Spatial Resolution</title>
+      <link>/publication/slide-seq/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/slide-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized linear autoencoders, probabilistic PCA, and backpropagation in the brain</title>
+      <link>/talk/mia-lae/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/mia-lae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>

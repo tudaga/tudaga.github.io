@@ -6,10 +6,19 @@
     <description>Recent content in Aleksandrina Goeva on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/authors/aleksandrina-goeva/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Regularized linear autoencoders, probabilistic PCA, and backpropagation in the brain</title>
+      <link>/talk/mia-lae/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/mia-lae/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intro to non-negative matrix factorization</title>

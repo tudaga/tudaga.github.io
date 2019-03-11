@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Macosko, E.Z. on </title>
-    <link>/authors/macosko-e.z./</link>
-    <description>Recent content in Macosko, E.Z. on </description>
+    <title>Chen, F. on </title>
+    <link>/authors/chen-f./</link>
+    <description>Recent content in Chen, F. on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/authors/macosko-e.z./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/chen-f./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/publication/slide-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Molecular diversity and specializations among the cells of the adult mouse brain</title>
-      <link>/publication/mouce_atlas/</link>
-      <pubDate>Thu, 09 Aug 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/mouce_atlas/</guid>
       <description></description>
     </item>
     
